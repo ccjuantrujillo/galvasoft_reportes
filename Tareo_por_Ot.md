@@ -22,6 +22,6 @@ Definiciones
 
 ## 7. Desarrollo
 ### 1.-	Ingresar los datos de usuario: 
-![Login](https://github.com/ccjuantrujillo/galvasoft_reportes/blob/main/documentation/images/imagen1.png)
+![Login](https://github.com/ccjuantrujillo/galvasoft_reportes/blob/main/documentation/images/Imagen1.png)
 
 ### 2.-	Seleccionar área comercial:
